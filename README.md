@@ -11,6 +11,9 @@ This repo constitutes a good starting point for creating web applications within
 - `$ rails db:create db:migrate db:seed` will initialize the database with the seed data
 - `$ rails s` will start the server
 
+# Developing
+- `$ rails g rename:into New-Name` to rename the app
+
 ## Testing
 - Selenium & Capybara for web mocking
 - Rspec test framework
